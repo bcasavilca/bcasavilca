@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @bcasavilca
-- 👀 I’m interested in develop my skills 
-- 🌱 I’m currently learning about forex and daytrade
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach ..not now
+- 👋 Olá, Sou @bcasavilca
+- 👀 Estou buscando uma oportunidade de trabalho como desenvolvedor, atualmente estou praticando muito PHP, mysql, html, css e javascript.
+- 📫 meu email bcasavilca@yahoo.com
 
 <!---
 bcasavilca/bcasavilca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
