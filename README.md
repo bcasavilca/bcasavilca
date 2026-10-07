@@ -1,6 +1,4 @@
-# Olá, eu sou Bruno Casavilca 👋
-
-**Dev Trading + Web** — sistemas de trading e aplicações web.
+# Olá, 👋
 
 ## O que eu faço
 - 🤖 Sistemas de trading (MetaTrader 5, Expert Advisors, automação)
